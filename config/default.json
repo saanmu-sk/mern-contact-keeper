@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://saanmu:saanmu@contactkeeper-uazpr.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "thadaaladi"
+}
